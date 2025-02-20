@@ -1,0 +1,2 @@
+# ATF
+Adaptive Trend Finder
